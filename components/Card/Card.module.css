@@ -1,0 +1,18 @@
+.tagLogo{
+    height: 50px;
+    width: 50px;
+    background-color: #fff;
+    border-radius: 100%;
+    position: absolute;
+    bottom: 18%;
+    left: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.tagLogo img{
+    height: 25px;
+    width: 25px;
+}
